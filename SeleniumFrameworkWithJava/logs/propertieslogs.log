@@ -1,0 +1,10 @@
+[INFO ] 2023-09-13 22:28:09.451 [main] Log4jDemo - Information message
+[WARN ] 2023-09-13 22:28:09.454 [main] Log4jDemo - Warning message
+[ERROR] 2023-09-13 22:28:09.455 [main] Log4jDemo - Error message
+[FATAL] 2023-09-13 22:28:09.455 [main] Log4jDemo - Fatal message
+[DEBUG] 2023-09-13 22:28:09.455 [main] Log4jDemo - Debugging message
+[INFO ] 2023-09-13 22:33:56.352 [main] Log4jDemo - Information message
+[WARN ] 2023-09-13 22:33:56.357 [main] Log4jDemo - Warning message
+[ERROR] 2023-09-13 22:33:56.358 [main] Log4jDemo - Error message
+[FATAL] 2023-09-13 22:33:56.358 [main] Log4jDemo - Fatal message
+[DEBUG] 2023-09-13 22:33:56.358 [main] Log4jDemo - Debugging message
